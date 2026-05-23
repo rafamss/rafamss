@@ -1,16 +1,19 @@
-## Hi there 👋
+## Rafael Santos
 
-<!--
-**rafamss/rafamss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Engineer. Building scripts, automations, and open-source tools for the infosec community.
 
-Here are some ideas to get you started:
+1st Splunk MVP and Splunk User Group Leader in Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Expertise
+
+**SIEM & Monitoring** — Splunk Enterprise · Splunk Cloud · Splunk Enterprise Security · Wazuh
+
+**Security Engineering** — Detection engineering · log ingestion pipelines · threat intelligence · incident response automation
+
+**Tooling** — Scripts and automations to streamline security operations workflows
+
+### Projects
+
+- [**TLP Classification**](https://github.com/rafamss/obsidian-tlp-classification) — Obsidian plugin for document classification using the Traffic Light Protocol. Visual selector, status bar indicator, and automatic PDF badge generation. Available on [Obsidian Community](https://community.obsidian.md/plugins/tlp-classification).
