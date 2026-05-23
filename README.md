@@ -2,7 +2,7 @@
 
 Security Engineer. Building scripts, automations, and open-source tools for the infosec community.
 
-1st Splunk MVP and Splunk User Group Leader in Brazil.
+1st [Splunk MVP](https://community.splunk.com/t5/Community-Blog/Introducing-the-2024-Splunk-MVPs/ba-p/684683) and [Splunk User Group](https://usergroups.splunk.com/sao-paulo-splunk-user-group/) Leader in Brazil.
 
 ---
 
